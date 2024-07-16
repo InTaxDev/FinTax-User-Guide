@@ -6,7 +6,7 @@
 
 * 如何安装？
 
-&#x20;首先，您需要安装并连接到 snap，然后，您有 3 种方式体验 FinTax。 注册一个新的 FinTax 账户： 为了更好地体验 FinTax，我们建议您注册一个 FinTax 账户。您的钱包地址将自动链接到新创建的 FinTax 账户。&#x20;
+首先，您需要安装并连接到 snap，然后，您有 3 种方式体验 FinTax。 注册一个新的 FinTax 账户： 为了更好地体验 FinTax，我们建议您注册一个 FinTax 账户。您的钱包地址将自动链接到新创建的 FinTax 账户。&#x20;
 
 已有 FinTax 账户： 如果您已经拥有一个 FinTax 账户。您只需将地址链接到现有账户即可。&#x20;
 
@@ -35,7 +35,7 @@ Plans：介绍了Fintax的5中套餐方案（详情可点击Fintax的5种plans�
 
 * 如何添加钱包（exchanges/chains）
 
-首先在导航栏选择Tax Return，点击Redo Tax Return，选择Import Wallets/transactions
+首先在导航栏选择'Tax Return'，点击'Redo Tax Return'，选择Import Wallets/transactions
 
 其次选择Add Wallet添加您需要的钱包或链，选择Add transaction 添加您额外的交易                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               &#x20;
 
@@ -50,10 +50,13 @@ Plans：介绍了Fintax的5中套餐方案（详情可点击Fintax的5种plans�
 如果您从交易所自动导入交易，您不需要编辑交易方向和交易类型，系统会自动识别。
 
 * 如何导入csv数据
+
+点击'Add Wallet'，选择相应的exchanges即可添加不同格式的csv
+
 * 应该通过钱包地址还是CSV导入？(面对不同情况下的推荐)
 * 如何查看已导入的交易记录
 
-点击View Transactions即可查看已导入交易，点击Back To Portfolio即可回到上一页面
+点击'View Transactions'即可查看已导入交易，点击Back To Portfolio即可回到上一页面
 
 
 
@@ -76,20 +79,21 @@ Plans：介绍了Fintax的5中套餐方案（详情可点击Fintax的5种plans�
 
 检查交易结束后点击'Check done, Generate Tax Report'即可获得Tax Trial Calculation Sheet
 
+下滑页面找到'TaxFrom'，点击'view'即可查看税表
+
 * 不同税务报告的区别（介绍）
 * 如何下载税务报告？
 
-
+下滑页面找到'TaxFrom'，点击'view'即可查看税表时，点击税表右上角‘保存’按钮，即可保存税表
 
 * 如何导出csv?
 
-点击export即可导出表格
+在Tax Trial Calculation Sheet右侧点击‘export’即可导出表格
 
-关于存疑交易（Suspected Transactions）
+* 关于存疑交易（Suspected Transactions）
+* 如何运行新的税务报表？
 
-如何运行新的税务报表？
-
-
+在导航栏选择Tax Return，点击Redo Tax Return即可重做纳税申报
 
 
 
