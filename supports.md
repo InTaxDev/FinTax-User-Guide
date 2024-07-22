@@ -145,8 +145,6 @@ FIFO(first in first out)：when the cost basis of the share acquiredfirst is use
 
 LlFO (last in, first out)：when the cost basis of the share acquired lastis used（let's say you buy 10 shares of XYZ stock on January 5, 2017 for $1,000 ($100 per share). On June 10 of the same year, XYZ was trading at $120 per share, and you decide to buy another 10 shares at $1,200. If you decide to sell five shares today, with the FIFO method, your cost base will be $600, or the price you pay for the first share of XYZ stock you purchase.）
 
-Specific identification method： which means finding the basis ofeach share sold（Let's say the company's stock price has dropped significantly since you bought 20 shares of XYZ stock, and you want to take advantage of some tax loss gains. In this case, you need the highest possible cost base to maximize your capital losses. For example, if you're selling 15 shares of XYZ stock, you can choose to include 10 shares of all 10 shares you bought for $120, as well as just 5 shares of the shares you bought for $100, giving you the highest possible cost base. The total cost basis for selling 15 shares is (10 x $120) + (5 x $100), which is $1,700.）
-
 Average cost basis：or taking the average cost paid for allinvestments and using it for all shares sold. This is only used formutual funds（If you buy 10 shares of XYZ at $100 per share and then 10 shares at $120 each, your cost basis will be the total cost ($2,200) divided by the total number of shares (20 shares), which is $110 per share.）
 
 * 交易费用如何计算？
