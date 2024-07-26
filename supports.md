@@ -4,35 +4,12 @@
 
 中国香港，澳大利亚，新西兰，日本，韩国，美国，加拿大，新加坡
 
-#### 2、澳洲的加密货币税收政策（面向澳洲）
 
-澳洲的会计方法
-
-主要内容：
-
-1.加密货币作为财产
-
-2.个人交易
-
-* 买卖加密货币
-* 使用加密货币支付商品或服务
-* 交换加密货币
-
-3.企业交易
-
-* 收入、费用记录，持有加密货币的资本利得
-
-4.矿工和Staking
-
-5.硬分叉和空投
-
-其他
 
 
 
 #### 3、FinTax的两种服务模式
 
-*
 * &#x20;FinTax 个人版服务&#x20;
 
 财务管理：您可以轻松从主流交易所、数字钱包匿名导入您的加密资产交易，系统将 为您生成资产看板，并提供资产余额、盈亏计算等财务管理功能。
@@ -57,6 +34,8 @@ UItra（$200/年）：支持为不超过 10,000 条交易数据生成报表
 
 VIP（按需报价）：支持所有Ultra版本功能，可为无限条交易生成税务报告，进行加密税务咨询服务
 
+
+
 * 如何升级我的计划？
 
 在导航栏中选择'Plans'，选择您想升级的plans，添加相应银行卡或使用Gpay支付即可升级成功（您可使用invite code进行抵扣，若没有code直接点击comfirm即可进入支付页面）
@@ -66,23 +45,7 @@ VIP（按需报价）：支持所有Ultra版本功能，可为无限条交易生
 
 
 
-#### 5、购买 FinTax 计划后如何申报加密税
-
-* 自行报税
-
-下载您的税务报告，以便您自行报税
-
-* 向注册会计师或税务专业人士报税
-
-您可以下载您的税务报告并与您的税务专业人士共享，也可以与他们共享账户来查看和编辑
-
-* 可以通过Fintax报税吗？
-
-我们目前无法选择通过FinTax直接报税
-
-* Fintax是否向政府报告我的资本收益？
-
-不，我们不提供报税服务或报税服务。我们提供信息资源和报告，旨在帮助您自行履行加密货币纳税义务。
+####
 
 
 
@@ -131,9 +94,8 @@ FinTax只需要 API 密钥的只读信息。即使密钥被称为“密钥”，
 
 #### 9、会计基础
 
-* 加密货币投资将如何影响我的税收？
 * 资本利得的计算是如何运作的？
-* 如何计算公允市场价值？
+* 如何计算公允市场价值
 * 计算成本基础的方法
 
 FIFO(first in first out)：when the cost basis of the share acquiredfirst is used（let's say you buy 10 shares of XYZ stock on January 5, 2017 for $1,000 ($100 per share). On June 10 of the same year, XYZ was trading at $120 per share, and you decide to buy another 10 shares at $1,200. If you decide to sell five shares today, with the FIFO method, your cost base will be $500, or the price you pay for the first share of XYZ stock you purchase.）

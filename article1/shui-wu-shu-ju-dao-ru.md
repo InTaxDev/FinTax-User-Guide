@@ -1,16 +1,14 @@
 # 税务数据导入
 
-* FinTax支持哪些钱包和交易所
+## FinTax支持哪些钱包和交易所
 
 Exchanges：Binance,Okx,Bybit,Kraken,CionSpot,Swyftx,Huobi,Gate.io,Bitfinex,Bitget,Upbit,CoinEx,Crypto.com,OSL,HashKey,Cionbase,KuCion,Biflyer
 
 Chains：Bitcion,ETH,TON,Tron,BSC,Polygon,ARBITRUM,OP,Avalanche,Fantom,Sui,Aptos,Base
 
-（How to add your exchanges account?）链接
 
 
-
-* 如何添加钱包（exchanges/chains）
+## 如何添加钱包和交易所（exchanges/chains）
 
 首先在导航栏选择'Tax Return'，点击'Redo Tax Return'，选择Import Wallets/transactions
 
@@ -30,17 +28,17 @@ _<mark style="color:yellow;">如果您从交易所自动导入交易，您不需
 
 
 
-* 如何导入csv数据
+## 如何导入csv数据
 
 点击'Add Wallet'，选择相应的exchanges即可添加不同格式的csv
 
 
 
-* 应该通过钱包地址还是CSV导入？(面对不同情况下的推荐)
+## 应该通过钱包地址还是CSV导入？(面对不同情况下的推荐)
 
 
 
-* 如何查看已导入的交易记录
+## 如何查看已导入的交易记录
 
 点击'Add Wallet'，选择相应的exchanges即可添加不同格式的csv
 
