@@ -14,5 +14,5 @@
   * [Exchange ](integrations/exchange.md)
   * [Chain](integrations/chain.md)
   * [Apps-Account](integrations/apps-account.md)
-* [Supports](supports.md)
+* [FAQs ](faqs.md)
 * [Technical Support & Troubleshooting](technical-support-and-troubleshooting.md)

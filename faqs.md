@@ -1,16 +1,12 @@
-# Supports
+# FAQs&#x20;
 
-#### 1、Fintax税务报告涵盖的国家/地区
+## Fintax税务报告涵盖的国家/地区
 
 中国香港，澳大利亚，新西兰，日本，韩国，美国，加拿大，新加坡
 
 
 
-
-
-#### 3、FinTax的两种服务模式
-
-* &#x20;FinTax 个人版服务&#x20;
+## &#x20;FinTax 个人版服务模式&#x20;
 
 财务管理：您可以轻松从主流交易所、数字钱包匿名导入您的加密资产交易，系统将 为您生成资产看板，并提供资产余额、盈亏计算等财务管理功能。
 
@@ -18,9 +14,9 @@
 
 
 
-#### 4、FinTax的5种plans
+## FinTax的5种plans
 
-* 定价概览
+### 定价概览
 
 所有套餐均支持以下功能：钱包无导入上限，支持10+以上主流交易所&30+主流公链，交易明细详情查询，加密资产分析看板
 
@@ -34,29 +30,17 @@ UItra（$200/年）：支持为不超过 10,000 条交易数据生成报表
 
 VIP（按需报价）：支持所有Ultra版本功能，可为无限条交易生成税务报告，进行加密税务咨询服务
 
-
-
-* 如何升级我的计划？
+### 如何升级我的计划？
 
 在导航栏中选择'Plans'，选择您想升级的plans，添加相应银行卡或使用Gpay支付即可升级成功（您可使用invite code进行抵扣，若没有code直接点击comfirm即可进入支付页面）
 
-* 会自动续订订阅吗？
-* 退款政策是什么？
+### 会自动续订订阅吗？
+
+### 退款政策是什么？
 
 
 
-####
-
-
-
-#### 6、如何申请延期纳税（需针对不同国家）
-
-* 如何延长报税截止日期？
-* 申请延期后会发生什么？
-
-
-
-#### 7、获取有关加密税的建议
+## 获取有关加密税的建议
 
 * Fintax合作伙伴提供哪些服务？
 * 邀请您自己的税务专业人士审查或编辑您的Fintax账户
@@ -67,7 +51,7 @@ VIP（按需报价）：支持所有Ultra版本功能，可为无限条交易生
 
 
 
-#### 8、隐私与安全
+## 隐私与安全
 
 * Fintax 要求哪些数据权限？
 
@@ -90,26 +74,6 @@ FinTax只需要 API 密钥的只读信息。即使密钥被称为“密钥”，
 * 当与税务专业人士共享访问权限时，它是否安全？
 * 网站安全吗？
 
-
-
-#### 9、会计基础
-
-* 资本利得的计算是如何运作的？
-* 如何计算公允市场价值
-* 计算成本基础的方法
-
-FIFO(first in first out)：when the cost basis of the share acquiredfirst is used（let's say you buy 10 shares of XYZ stock on January 5, 2017 for $1,000 ($100 per share). On June 10 of the same year, XYZ was trading at $120 per share, and you decide to buy another 10 shares at $1,200. If you decide to sell five shares today, with the FIFO method, your cost base will be $500, or the price you pay for the first share of XYZ stock you purchase.）
-
-LlFO (last in, first out)：when the cost basis of the share acquired lastis used（let's say you buy 10 shares of XYZ stock on January 5, 2017 for $1,000 ($100 per share). On June 10 of the same year, XYZ was trading at $120 per share, and you decide to buy another 10 shares at $1,200. If you decide to sell five shares today, with the FIFO method, your cost base will be $600, or the price you pay for the first share of XYZ stock you purchase.）
-
-Average cost basis：or taking the average cost paid for allinvestments and using it for all shares sold. This is only used formutual funds（If you buy 10 shares of XYZ at $100 per share and then 10 shares at $120 each, your cost basis will be the total cost ($2,200) divided by the total number of shares (20 shares), which is $110 per share.）
-
-* 交易费用如何计算？
-* 税率是多少？加密货币如何征税？
-* 每个国家的加密货币税指南（官方链接）
-
-
-
-#### 10、我们支持哪些网络？&#x20;
+## FinTax支持哪些网络？&#x20;
 
 目前，我们支持以太坊、Op Mainnet、Arbitrum One、BNB Chain、Avalanche Network C-Chain、Polygon Mainnet，我们将逐步扩大对其他网络的支持。
