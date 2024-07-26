@@ -15,4 +15,3 @@
   * [Chain](integrations/chain.md)
   * [Apps-Account](integrations/apps-account.md)
 * [FAQs ](faqs.md)
-* [Technical Support & Troubleshooting](technical-support-and-troubleshooting.md)

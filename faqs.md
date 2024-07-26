@@ -6,6 +6,12 @@
 
 
 
+## FinTax支持哪些网络？&#x20;
+
+目前，我们支持以太坊、Op Mainnet、Arbitrum One、BNB Chain、Avalanche Network C-Chain、Polygon Mainnet，我们将逐步扩大对其他网络的支持。
+
+
+
 ## &#x20;FinTax 个人版服务模式&#x20;
 
 财务管理：您可以轻松从主流交易所、数字钱包匿名导入您的加密资产交易，系统将 为您生成资产看板，并提供资产余额、盈亏计算等财务管理功能。
@@ -74,6 +80,18 @@ FinTax只需要 API 密钥的只读信息。即使密钥被称为“密钥”，
 * 当与税务专业人士共享访问权限时，它是否安全？
 * 网站安全吗？
 
-## FinTax支持哪些网络？&#x20;
+## Technical Support & Troubleshootings
 
-目前，我们支持以太坊、Op Mainnet、Arbitrum One、BNB Chain、Avalanche Network C-Chain、Polygon Mainnet，我们将逐步扩大对其他网络的支持。
+* missing price
+
+确保所有交易都已上传
+
+check交易
+
+检查缺失的价格
+
+check电子表格
+
+* 余额不足
+* 如何删除重复项
+* 如何处理问题代币（丢失、被盗、骗局或无价值）？
