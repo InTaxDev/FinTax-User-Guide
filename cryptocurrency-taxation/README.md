@@ -1,2 +1,0 @@
-# Cryptocurrency Taxation&#x20;
-
