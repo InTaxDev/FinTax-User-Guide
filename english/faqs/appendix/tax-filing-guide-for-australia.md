@@ -12,7 +12,7 @@ Please follow each step carefully to fill in the appropriate fields on your tax 
 
 ### 1.1 salary or wages:
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Column 1 - Employer's Australian Business Number (ABN)
 
@@ -30,7 +30,7 @@ FinTax will calculate the total income amount paid by each employer. Fill in the
 
 ### 1.2 Allowances, earnings, tips, director’s fees etc, Employer lump sum payments and Employment termination payments (ETP)
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Column 1 - Tax Withheld
 
