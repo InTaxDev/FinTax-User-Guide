@@ -37,9 +37,17 @@ Tax authorities such as the Australian Taxation Office, the U.S. IRS, the U.S. D
 
 ### **Non-Taxable Events**
 
-* **Small Gifts Between Individuals:** In some cases, small cryptocurrency gifts between individuals may not be taxable, depending on specific tax law regulations and the amount of the gift.
-* **Non-Commercial Holdings:** If cryptocurrency is held as a personal collection or for non-commercial purposes without transactions or gains, it is usually not considered a taxable event.
-* **Internal Transfers:** Transferring cryptocurrency from one wallet to another, without a value exchange or ownership change, is typically not considered a taxable event.
+*   #### Personal Use Asset
+
+    If you hold or use a crypto asset (such as Bitcoin, a cryptocurrency) mainly for personal use, for example, to buy items for personal use or consumption, the crypto asset is considered a personal use asset. In this case, the asset does not involve a Capital Gains Tax (CGT) event.
+
+    For more details, refer to: [Crypto asset as a personal use asset](https://www.ato.gov.au/individuals-and-families/investments-and-assets/crypto-asset-investments/crypto-asset-as-a-personal-use-asset)
+*   **Transferring Crypto Between Your Own Wallets**
+
+    Transferring crypto between your own different wallets does not involve a Capital Gains Tax (CGT) event.
+*   **Lost or Stolen Crypto**
+
+    Lost or stolen crypto does not involve a Capital Gains Tax (CGT) event.
 
 
 

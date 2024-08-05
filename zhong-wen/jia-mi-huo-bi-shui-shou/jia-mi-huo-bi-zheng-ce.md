@@ -41,9 +41,18 @@
 
 ### 非应税事件：
 
-* 个人间小额赠予：在某些情况下，个人间的小额加密货币赠予可能不需要纳税，但这取决于具体的税法规定和赠予的金额 。
-* 非商业性质的持有：如果加密货币是作为个人收藏或非商业性质的持有，没有发生交易或产生收益，通常不视为应税事件 。
-* 内部转账：将加密货币从一个电子钱包转移到另一个电子钱包，如果没有发生价值交换或所有权变更，通常不视为应税事件
+* 个人使用资产
+
+如果您持有或使用加密资产（如比特币、加密货币）主要是用于个人用途，例如购买个人使用或消费的物品，该加密资产则被视为个人使用资产。此时，该资产不涉及资本利得税（CGT）事件。
+
+具体参阅：[https://www.ato.gov.au/individuals-and-families/investments-and-assets/crypto-asset-investments/crypto-asset-as-a-personal-use-asset](https://www.ato.gov.au/individuals-and-families/investments-and-assets/crypto-asset-investments/crypto-asset-as-a-personal-use-asset)
+
+* 在个人钱包间转移加密货币
+
+在个人不同钱包之间转移加密货币时，不涉及资本利得税（CGT）事件。
+
+* 丢失或被盗的加密货币
+* 丢失或被盗的加密货币不涉及资本利得税（CGT）事件。
 
 
 
