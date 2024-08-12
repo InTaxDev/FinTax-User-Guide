@@ -4,11 +4,11 @@
 
 其中规定了：
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 请注意，如果未在指定期限内缴纳税款，将根据法定缴纳期限次日至缴纳日的天数自动征收相当于利息的滞纳金。
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 恩典制度：
 

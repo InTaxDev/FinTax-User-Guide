@@ -1,6 +1,6 @@
 # 平台使用指南
 
-[English version](../../english/platform-user-guide/)
+[English version](../../fintax-docment/platform-user-guide/)
 
 
 

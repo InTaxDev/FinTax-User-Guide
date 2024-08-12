@@ -1,3 +1,3 @@
 # 集成
 
-[English version](../../english/integrations/)
+[English version](../../fintax-docment/integrations/)

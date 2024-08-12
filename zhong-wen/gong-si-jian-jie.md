@@ -31,7 +31,5 @@ FinTax 已经获得行业领袖和顶级机构的天使轮投资，目前正在�
 
 如果您有任何的使用意见及建议，或者相关合作意向，请随时联系我们。
 
-Telegram：@calixliu；@williambtcmax&#x20;
-
-E-mail：calix.liu@fintax.tech；william.xu@fintax.tech
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 

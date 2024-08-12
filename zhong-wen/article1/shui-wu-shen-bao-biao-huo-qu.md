@@ -8,7 +8,7 @@
 
 ## 获取报表后如何进行报税
 
-购买 FinTax 计划获得报表后，您可以选择自行申报加密税，或者求助注册会计师等方式进行报税。详细请参阅 [获取报表后如何报税](../jia-mi-huo-bi-shui-shou/ru-he-bao-shui.md#gou-mai-fintax-ji-hua-hou-ru-he-shen-bao-jia-mi-shui)
+购买 FinTax 计划获得报表后，您可以选择自行申报加密税，或者求助注册会计师等方式进行报税。详细请参阅 [获取报表后如何报税](../jia-mi-huo-bi-shui-shou/ao-zhou/ru-he-bao-shui.md#gou-mai-fintax-ji-hua-hou-ru-he-shen-bao-jia-mi-shui)
 
 
 

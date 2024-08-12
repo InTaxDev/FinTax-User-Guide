@@ -1,3 +1,3 @@
 # 加密货币税收
 
-[English version](../../english/cryptocurrency-taxation/)
+[English version](../../fintax-docment/cryptocurrency-taxation/)

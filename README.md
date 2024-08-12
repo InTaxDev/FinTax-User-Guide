@@ -1,7 +1,5 @@
 # Introduction
 
-[中文版](zhong-wen/gong-si-jian-jie.md)
-
 ## What is FinTax?
 
 FinTax is the world's first professional tax and financial management software dedicated to crypto. It covers major compliance regions worldwide and supports one-click transaction imports and tax calculations.
@@ -23,3 +21,9 @@ Whether you're a novice or an experienced professional, FinTax serves as your de
 FinTax is managed by TaxDAO, founded by former Bitmain Tax Director Calix and his professional team. They possess extensive experience in Web3 finance and taxation, handling cryptocurrency-related tax amounts exceeding ten billion.&#x20;
 
 FinTax has already secured angel round investments from industry leaders and top institutions and is currently conducting seed round financing.
+
+
+
+## Contact Fintax
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
