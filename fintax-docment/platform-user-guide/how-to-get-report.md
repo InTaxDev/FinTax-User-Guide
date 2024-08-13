@@ -8,7 +8,7 @@ After the transaction review is complete, you can obtain the Tax Return by click
 
 ## How to File Taxes After Getting the Report
 
-Once you have purchased the FinTax program and obtained your tax report, you can choose to file your own encrypted tax return or seek the help of a certified public accountant to do so. For more information, please read [ ‘How to File Taxes After Getting Your Report’](../cryptocurrency-taxation/australia/how-to-do-taxes.md#how-to-report-crypto-taxes-after-purchasing-a-fintax-plan)
+Once you have purchased the FinTax program and obtained your tax report, you can choose to file your own encrypted tax return or seek the help of a certified public accountant to do so. For more information, please read [ ‘How to File Taxes After Getting Your Report’](../cryptocurrency-taxation/).
 
 ## About Suspected Transactions
 

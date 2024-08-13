@@ -18,7 +18,9 @@ Tax authorities such as the Australian Taxation Office, the U.S. IRS, the U.S. D
 
 ## Are Cryptocurrencies Taxed?
 
-**Yes.** In most jurisdictions around the world, including Australia, the United States, the United Kingdom, Canada, and India, tax authorities impose taxes on cryptocurrency transactions. For example, the Australian Taxation Office (ATO) treats cryptocurrencies as assets rather than currency. This means that individuals or businesses have tax obligations when buying, selling, or otherwise dealing with cryptocurrencies. This includes transactions, exchanges, sales, donations, or converting cryptocurrencies to fiat currency. The tax amount depends on the capital gains/losses amount, the duration you hold the asset, and specific regulations in your country/region/jurisdiction. Since each taxable event may generate capital gains, you need to keep track of the dates, cost basis, sales value, and any fees associated with each transaction.&#x20;
+**Yes.**&#x20;
+
+In most jurisdictions around the world, including Australia, the United States, the United Kingdom, Canada, and India, tax authorities impose taxes on cryptocurrency transactions. For example, the Australian Taxation Office (ATO) treats cryptocurrencies as assets rather than currency. This means that individuals or businesses have tax obligations when buying, selling, or otherwise dealing with cryptocurrencies. This includes transactions, exchanges, sales, donations, or converting cryptocurrencies to fiat currency. The tax amount depends on the capital gains/losses amount, the duration you hold the asset, and specific regulations in your country/region/jurisdiction. Since each taxable event may generate capital gains, you need to keep track of the dates, cost basis, sales value, and any fees associated with each transaction.&#x20;
 
 &#x20;For more country cryptocurrency taxation policies, please see t[he Current Compliance Policies in Major Compliance Regions report.](../../faqs/appendix/the-current-compliance-policies-in-major-compliance-regions-report..md)
 
@@ -51,15 +53,17 @@ Tax authorities such as the Australian Taxation Office, the U.S. IRS, the U.S. D
 
 
 
-## Cost Basis Accounting Methods
-
-* **FIFO(first in first out)：**when the cost basis of the share acquiredfirst is used（let's say you buy 10 shares of XYZ stock on January 5, 2017 for $1,000 ($100 per share). On June 10 of the same year, XYZ was trading at $120 per share, and you decide to buy another 10 shares at $1,200. If you decide to sell five shares today, with the FIFO method, your cost base will be $500, or the price you pay for the first share of XYZ stock you purchase.）
-* **LlFO (last in, first out)：**when the cost basis of the share acquired lastis used（let's say you buy 10 shares of XYZ stock on January 5, 2017 for $1,000 ($100 per share). On June 10 of the same year, XYZ was trading at $120 per share, and you decide to buy another 10 shares at $1,200. If you decide to sell five shares today, with the FIFO method, your cost base will be $600, or the price you pay for the first share of XYZ stock you purchase.）
-* **Average cost basis**：or taking the average cost paid for allinvestments and using it for all shares sold. This is only used formutual funds（If you buy 10 shares of XYZ at $100 per share and then 10 shares at $120 each, your cost basis will be the total cost ($2,200) divided by the total number of shares (20 shares), which is $110 per share.）
-
 ## Difference between the two returns in Australia
 
 &#x20;The Australian Individual Tax Return and its Schedule are similar in that they both report your income and deductions; the Individual Tax Return covers wages, allowances, dividends, etc., while the Schedule focuses on capital gains, income from a business (which is listed on the Schedule, but you will need to report it via the MyTax app), foreign source income, and other income. Think of it this way: almost everyone is required to file an Individual Tax Return, but not everyone has the income listed on the schedules, so some people may not need the schedules. If you buy and sell cryptocurrencies, in most cases you will need to file a Schedule because your cryptocurrency income may be part of a capital gain.
 
 &#x20;For differences in tax returns in other jurisdictions, see [Tax Return Instructions for Different Countries](../../faqs/appendix/tax-return-instructions-for-different-countries.md)
+
+
+
+## Cost Basis Accounting Methods
+
+* **FIFO(first in first out)：**when the cost basis of the share acquiredfirst is used（let's say you buy 10 shares of XYZ stock on January 5, 2017 for $1,000 ($100 per share). On June 10 of the same year, XYZ was trading at $120 per share, and you decide to buy another 10 shares at $1,200. If you decide to sell five shares today, with the FIFO method, your cost base will be $500, or the price you pay for the first share of XYZ stock you purchase.）
+* **LlFO (last in, first out)：**when the cost basis of the share acquired lastis used（let's say you buy 10 shares of XYZ stock on January 5, 2017 for $1,000 ($100 per share). On June 10 of the same year, XYZ was trading at $120 per share, and you decide to buy another 10 shares at $1,200. If you decide to sell five shares today, with the FIFO method, your cost base will be $600, or the price you pay for the first share of XYZ stock you purchase.）
+* **Average cost basis**：or taking the average cost paid for allinvestments and using it for all shares sold. This is only used formutual funds（If you buy 10 shares of XYZ at $100 per share and then 10 shares at $120 each, your cost basis will be the total cost ($2,200) divided by the total number of shares (20 shares), which is $110 per share.）
 

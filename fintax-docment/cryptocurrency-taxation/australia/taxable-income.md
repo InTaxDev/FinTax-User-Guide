@@ -12,7 +12,7 @@ Most activities involving crypto assets constitute a transaction, meaning they a
 
 
 
-## How to Determine if You are Subject to Trading Stock Rules or CGT Rules
+### How to Determine if You are Subject to Trading Stock Rules or CGT Rules
 
 1. **A business may hold and use crypto assets:**
    * If the business is engaged in crypto asset activities (including trading, mining, exchange businesses, or selling non-fungible tokens), the crypto assets are considered trading stock.
