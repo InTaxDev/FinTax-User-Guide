@@ -12,7 +12,7 @@ The Australian tax year runs from July 1 to June 30 of the following year. If yo
 
 In Australia, if you choose to file through a tax agent or agency, you must inform your tax agent by October 31 so they can help you register, allowing your filing deadline to be extended to May 15 of the following year. In other cases, if you need to apply for a tax extension, please contact your tax agent or agency.
 
-If you'd like to learn about the [rules for tax filing extension in other countries](../../faqs/appendix/tax-extensions-for-diferrent-countries/), please see it.
+If you'd like to learn about the [rules for tax filing extension in other countries](../../faqs/appendix/rules-for-tax-extensions/), please see it.
 
 
 
