@@ -34,6 +34,8 @@
 
 **Click "Add Wallet"**:Choose the corresponding exchange to add CSV files in different formats.
 
+if you have question about[ 'how to get the csv'](../integrations/exchanges.md)
+
 
 
 ## Should You Import Wallets/Exchanges or CSV?&#x20;
