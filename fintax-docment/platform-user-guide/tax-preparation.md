@@ -10,7 +10,7 @@ First, you need to install and connect to snap. Then, there are three ways to ex
 
 
 
-## Introduction to the FinTax Navigation Bar (with screenshots)
+## Introduction to the FinTax Navigation Bar
 
 * **Dashboard**: Contains an overview of assets, transactions, and taxes.
 * **Taxes**: Follow the guidelines to start tax filing.
