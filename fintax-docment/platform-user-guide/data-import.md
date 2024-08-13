@@ -13,10 +13,11 @@
 1. **Via Tax Return Guidance**:
    * Click on "Tax" in the left navigation bar and follow the tax return guidance.
    * In the second step, click "Add Wallet & Exchange Account" to import your wallets and exchanges.
-2.  **Directly from the Navigation Bar**:
+2. **Directly from the Navigation Bar**:
 
-    * Click on "Add Wallet" to add your desired wallet or chain.
-    * Select "Add Transaction" to add your additional transactions.
+Click 'Crypto Assets'
+
+* Select 'Accounts/Transactions'to add your desired wallet or chain.
 
 
 
@@ -25,7 +26,7 @@
 1.  **From the Navigation Bar**:
 
     * Click on "Crypto Assets".
-    * Select "Portfolio/Transactions".
+    * Select "Accounts/Transactions".
     * Click on "Add Transaction" to manually add your required transactions.
 
 
@@ -34,7 +35,7 @@
 
 **Click "Add Wallet"**:Choose the corresponding exchange to add CSV files in different formats.
 
-if you have question about[ 'how to get the csv'](../integrations/exchanges.md)
+if you have question about ['how to get the csv'](../integrations/exchanges.md#steps-to-add-your-exchange-transactions).
 
 
 
