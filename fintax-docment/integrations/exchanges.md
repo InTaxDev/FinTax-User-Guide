@@ -2,7 +2,19 @@
 
 ## Which exchanges does FinTax support?&#x20;
 
-FinTax currently supports the following: Binance,Okx,Bybit,Kraken,CionSpot,Swyftx,Huobi,Gate.io,Bitfinex,Bitget,Upbit,CoinEx,Crypto.com,OSL,HashKey,Cionbase. KuCion,Biflyer
+FinTax currently supports the following:&#x20;
+
+Binance, Okx, Bybit, Kraken, CoinSpot, Swyftx, Huobi, Gate.io, Bitfinex, Bitget, Upbit, CoinEx,&#x20;
+
+Crypto.com, OSL, HashKey, Coinbase. KuCoin, Bitflyer, AdMax, Anchorage, Antalpha
+
+AscendEX, B2C2, BitGo, Bithumb, BitMEX, Bitstamp, Bitwind, BlockFills, BTSE, Ceffu
+
+CF Benchmarks, Circle, CoinList, Coinone, CoinRoutes, Coin TR, Copper, Cumberland, Deribit, dYdX,&#x20;
+
+FalconX, Fireblocks, Galaxy, Gemini, HitBTC, Hyperliquid, Indodax, LMAX, LifetionCoin, Luno, MEXC&#x20;
+
+Paradigm, Phemex, Poloniex, Talos, WhaleFin, WOO
 
 
 
@@ -66,7 +78,7 @@ Query ledger entries5.Select Generate key\
 
 Due to a limitation in Kucoins API, transactions over 6 months old will not be synchronized automatically. After adding your Kucoin account you will be redirected to manually add older transactions or reimport your Kucoin account by CSV.
 
-### Biflyer
+### Bitflyer
 
 1.Login to Bitflyer                                                                                                                                                         2.Navigate to API                                                                                                                                                             3.Click on 'Generate New Key' button                                                                                                                           4.Copy the 'API Key' and 'API Secret' and enter them both here into Crypto Tax Calculator
 
