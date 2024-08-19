@@ -12,9 +12,9 @@ AscendEX, Bithumb, Bitstamp
 
 CoinList, Copper, dYdX,&#x20;
 
-Fireblocks, Galaxy, Gemini, Indodax, LMAX, MEXC&#x20;
+Fireblocks, Galaxy, Gemini, ItBit, Indodax, LMAX, MEXC&#x20;
 
-Poloniex
+Poloniex, sFOX
 
 
 
