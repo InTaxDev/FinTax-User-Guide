@@ -6,15 +6,15 @@ FinTax currently supports the following:&#x20;
 
 Binance, Okx, Bybit, Kraken, CoinSpot, Swyftx, Huobi, Gate.io, Bitfinex, Bitget, Upbit, CoinEx,&#x20;
 
-Crypto.com, OSL, HashKey, Coinbase. KuCoin, Bitflyer, AdMax, Anchorage, Antalpha
+Crypto.com, OSL, Coinbase. KuCoin, Bitflyer
 
-AscendEX, B2C2, BitGo, Bithumb, BitMEX, Bitstamp, Bitwind, BlockFills, BTSE, Ceffu
+AscendEX, Bithumb, Bitstamp
 
-CF Benchmarks, Circle, CoinList, Coinone, CoinRoutes, Coin TR, Copper, Cumberland, Deribit, dYdX,&#x20;
+CoinList, Copper, dYdX,&#x20;
 
-FalconX, Fireblocks, Galaxy, Gemini, HitBTC, Hyperliquid, Indodax, LMAX, LifetionCoin, Luno, MEXC&#x20;
+Fireblocks, Galaxy, Gemini, Indodax, LMAX, MEXC&#x20;
 
-Paradigm, Phemex, Poloniex, Talos, WhaleFin, WOO
+Poloniex
 
 
 
