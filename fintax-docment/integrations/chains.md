@@ -4,8 +4,12 @@
 
 FinTax currently supports the following:&#x20;
 
-Bitcion, ETH, TON, Tron, BSC, Polygon, ARBITRUM, OP, Avalanche, Fantom, Sui, Aptos, Base
+Bitcion, Ethereum, TON, Tron, BSC Chain, Solana, Kaspa,&#x20;
 
-LiteCoin, Dogecoin, Bitcoin Cash, DASH, DIS, EthereumPoW, Gnosis,  X Layer, Scroll, zkSync Era
+Polygon, Arbitrum One, OP Mainnet, Avalanche-C, Fantom, Sui, Aptos,&#x20;
 
-Linea, StarkNet, OKT, Cosmos Hub, Kava, Ronin, Klaytn, Manta Pacific
+BASE, LiteCoin, Dogecoin, Bitcoin Cash, DASH, DIS CHAIN,&#x20;
+
+EthereumPoW, Gnosis,  X Layer, Scroll, zkSync Era, Linea,&#x20;
+
+OKT Chain, Ronin, KLAYTN, Manta Pacific

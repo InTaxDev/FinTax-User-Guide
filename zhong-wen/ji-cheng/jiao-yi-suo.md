@@ -2,7 +2,17 @@
 
 ## FinTax支持哪些交易所
 
-FinTax目前支持以下：Binance,Okx,Bybit,Kraken,CionSpot,Swyftx,Huobi,Gate.io,Bitfinex,Bitget,Upbit,CoinEx,Crypto.com,OSL,HashKey,Cionbase,KuCion,Biflyer
+FinTax目前支持以下：
+
+Binance, Okx, BIT, Bybit, Kraken, CoinSpot, Swyftx, Huobi, Gate.io,&#x20;
+
+Bitfinex, Bitget, Upbit, CoinEx,Crypto.com, OSL, Coinbase. KuCoin,&#x20;
+
+Bitflyer, AscendEX, Bithumb, Bitstamp, CoinList, Copper, dYdX,
+
+Fireblocks, Galaxy, Gemini, Indadax, ItBit,  LMAX(DIGITAL), MEXC
+
+LTP, Okcoin, Poloniex, sFOX
 
 
 
