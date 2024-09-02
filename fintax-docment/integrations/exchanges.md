@@ -4,15 +4,15 @@
 
 FinTax currently supports the following:
 
-**Binance,** **Okx**, _BIT_, **Bybit,** **Kraken**, **CoinSpot**, **Swyftx**, **Huobi**, **Gate.io**,&#x20;
+Binance, Okx, BIT, Bybit, Kraken, CoinSpot, Swyftx, Huobi, Gate.io,&#x20;
 
-**Bitfinex**, **Bitget**, Upbit, **CoinEx**,**Crypto.com**, OSL, **Coinbase**. **KuCoin**,&#x20;
+Bitfinex, Bitget, Upbit, CoinEx,Crypto.com, OSL, Coinbase. KuCoin,&#x20;
 
-**Bitflyer**, **AscendEX**, _**Bithumb**_, **Bitstamp**, **CoinList**, **Copper**, _**dYdX**_,
+Bitflyer, AscendEX, Bithumb, Bitstamp, CoinList, Copper, dYdX,
 
-Fireblocks, Galaxy, **Gemini**, Indadax, _**ItBit**_,  LMAX(DIGITAL), _MEXC_
+Fireblocks, Galaxy, Gemini, Indadax, ItBit,  LMAX(DIGITAL), MEXC
 
-LTP, _**Okcoin**_, **Poloniex**, _**sFOX**_
+LTP, Okcoin, Poloniex, sFOX
 
 ## How to add your Exchange account?
 
@@ -248,12 +248,6 @@ Due to a limitation in Kucoins API, transactions over 6 months old will not be s
 
 3.Once found, copy this public key, paste it into the form on this page, and click 'Import Wallet' to sync your transactions
 
-### dYdX
-
-### Fireblocks
-
-
-
 ### Gemini
 
 1.Open the [Gemini API Settings](https://exchange.gemini.com/settings/api) page.
@@ -325,6 +319,12 @@ Due to a limitation in Kucoins API, transactions over 6 months old will not be s
 2.Download your zip file with your desired time range and unzip it.
 
 3.Upload he CSV file here
+
+### BIT
+
+1.Export transactions file from your exchange or wallet
+
+2.Re-format it using our FinTax CSV template and guide
 
 ### Bybit
 
@@ -399,6 +399,12 @@ Due to a limitation in Kucoins API, transactions over 6 months old will not be s
 7.In your email client, open the email and click 'Download CSV'. This will download a .zip file containing two CSVs (one for ledgers and one for movements).
 
 ### Bitget
+
+1.Export transactions file from your exchange or wallet
+
+2.Re-format it using our FinTax CSV template and guide
+
+### Upbit
 
 1.Export transactions file from your exchange or wallet
 
@@ -579,6 +585,42 @@ Due to a limitation in Kucoins API, transactions over 6 months old will not be s
 2.Upload the CSV to the importer here
 
 ### sFOX
+
+1.Export transactions file from your exchange or wallet
+
+2.Re-format it using our FinTax CSV template and guide
+
+### Fireblocks
+
+1.Export transactions file from your exchange or wallet
+
+2.Re-format it using our FinTax CSV template and guide
+
+### Galaxy
+
+1.Export transactions file from your exchange or wallet
+
+2.Re-format it using our FinTax CSV template and guide
+
+### Indadax
+
+1.Export transactions file from your exchange or wallet
+
+2.Re-format it using our FinTax CSV template and guide
+
+### LMAX(DIGITAL)
+
+1.Export transactions file from your exchange or wallet
+
+2.Re-format it using our FinTax CSV template and guide
+
+### MEXC
+
+1.Export transactions file from your exchange or wallet
+
+2.Re-format it using our FinTax CSV template and guide
+
+### LTP
 
 1.Export transactions file from your exchange or wallet
 
