@@ -2,7 +2,7 @@
 
 ## What is FinTax?
 
-FinTax is the world's first professional tax and financial management software dedicated to crypto. It covers major compliance regions worldwide and supports one-click transaction imports and tax calculations.
+FinTax is the web3 professional tax and financial management software dedicated to crypto. It covers major compliance regions worldwide and supports one-click transaction imports and tax calculations.
 
 
 
